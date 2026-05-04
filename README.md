@@ -11,8 +11,13 @@ seaborn
 
 **Key Insights**
 Netflix has more Movies than TV Shows
+
 Most content is produced by USA
+
 Content increased significantly after 2015
+
+Movies and T.V.show growth with time 
+
 Most shows are rated TV-MA
 
 **Dataset**
