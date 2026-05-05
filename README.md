@@ -1,4 +1,4 @@
-**Netflix Data Analysis Dashboard**
+**Netflix Dashboard**
 
 **Project Overview**
 This project analyzes Netflix movies and TV shows dataset to find trends and insights.
